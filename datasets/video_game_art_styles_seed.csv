@@ -1,0 +1,26 @@
+style_name,category,steam_tag_alignment,notes
+Pixel Art,2D,Pixel Graphics,Retro sprite-based visuals
+Hand-Drawn,2D,Hand-drawn,Illustrated frame-by-frame look
+Cartoon,2D/3D,Cartoon,Exaggerated non-realistic forms
+Anime,2D/3D,Anime,Japanese animation-inspired style
+Minimalist,2D/3D,Minimalist,Reduced shapes and visual noise
+Vector Art,2D,none common,Scalable geometric rendering
+Flat Design,2D,none common,Limited shading and clean color blocks
+Cel-Shaded,3D,Stylized,Comic-like hard shading
+Low Poly,3D,Stylized,Intentional low polygon geometry
+Realistic,3D,Realistic,Natural proportions and physically based materials
+Photorealistic,3D,Realistic,High fidelity realism target
+Voxel,3D,Voxel,Block-based volumetric style
+Isometric,Presentation,Isometric,Angled projection with stylized depth
+Chibi,Character Style,Anime,Super-deformed character proportions
+Noir,Aesthetic Theme,Stylized,High contrast and moody palettes
+Neon/Cyberpunk,Aesthetic Theme,Stylized,Glowing neon futuristic look
+Gothic,Art Direction,Dark,Ornate dark fantasy visual direction
+Painterly,2D/3D,Stylized,Brushstroke and painted texture emphasis
+Claymation,Mixed Media,Stylized,Stop-motion clay-inspired visuals
+Paper-Craft,Mixed Media,Stylized,Cut-paper and folded paper look
+Retro 3D,3D,Old School,Early-generation low-detail 3D style
+Monochrome,2D/3D,Minimalist,Single-color or narrow palette art direction
+Silhouette,2D,Minimalist,Foreground shape-first readability style
+Comic Book,2D/3D,Stylized,Panel-like inking and halftone influence
+Surreal,Aesthetic Theme,Psychological,Dreamlike and intentionally distorted style
